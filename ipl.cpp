@@ -1,7 +1,7 @@
 /***************************************************************************************
 / Modify variable done (number of matches already completed) in Line 47
-/ Modify points table in Lines 116-123
-/ Modify the number in bitset command equal to number of remaining matches in Line 128
+/ Modify points table (around line 90)
+/ Modify the number in bitset command equal to number of remaining matches just below the points table
 ****************************************************************************************/
 
 #include<bits/stdc++.h>
